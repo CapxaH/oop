@@ -109,3 +109,5 @@ workCar = WorkCar1('Рабочая машина', 'Жолтая', 90)
 policeCar = PoliceCar1('Полицейская машина', 'Синяя', 210)
 
 print(policeCar.is_police)
+print(sportCar.speed)
+print(workCar.color)
